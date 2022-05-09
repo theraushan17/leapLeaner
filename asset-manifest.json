@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leapLeaner/static/css/main.451330f4.css",
+    "main.js": "/leapLeaner/static/js/main.b049fc1f.js",
+    "static/js/787.d3befce1.chunk.js": "/leapLeaner/static/js/787.d3befce1.chunk.js",
+    "index.html": "/leapLeaner/index.html",
+    "main.451330f4.css.map": "/leapLeaner/static/css/main.451330f4.css.map",
+    "main.b049fc1f.js.map": "/leapLeaner/static/js/main.b049fc1f.js.map",
+    "787.d3befce1.chunk.js.map": "/leapLeaner/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.451330f4.css",
+    "static/js/main.b049fc1f.js"
+  ]
+}
